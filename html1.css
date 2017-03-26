@@ -1,0 +1,36 @@
+
+#jumbotron_bookmark_h3
+{
+    text-align: center;
+}
+
+input
+{
+    width:80%;
+    border-radius: 4px;
+    align-items: center;
+}
+
+body
+{
+    background-color:#e8e8e8;
+    font-family: MV Boli;
+}
+
+#body_wrapper
+{
+    background-color: #dac0a8;
+    color:#002157;
+}
+
+#submit
+{
+    background-color:#44a2a1;
+}
+
+button:focus
+{
+    box-shadow: 2px 2px 2px grey;
+    outline:0 !important;
+}
+
